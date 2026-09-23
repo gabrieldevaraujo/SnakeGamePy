@@ -63,4 +63,3 @@ Jogo da cobrinha clássico desenvolvido em **Python** com a biblioteca **Pygame*
 
 ## Autor
 Gabriel Neves Araujo - 230023026
-Atividade desenvolvida para a disciplina de programação, utilizando Python e Pygame.
